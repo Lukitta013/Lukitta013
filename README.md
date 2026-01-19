@@ -1,7 +1,3 @@
-<!-- Banner do perfil (substitua o link abaixo pela sua imagem, se quiser) -->
-<p align="center">
-  <img src="https://github.com/Lukitta013/Lukitta013/assets/yourbanner.png" alt="Banner do Lucas Inácio" width="100%" />
-</p>
 
 # 👋 Olá, eu sou Lucas Inácio!
 
