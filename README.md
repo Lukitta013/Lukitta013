@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou Lucas Inácio!
 
-Tenho 19 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
+Tenho 20 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
 Atualmente curso <b>Desenvolvimento de Software Multiplataforma</b> na FATEC - São José dos Campos, sempre buscando criar soluções inovadoras e funcionais.
 
 Minha trajetória começou com o técnico em Desenvolvimento de Sistemas, que me deu uma base sólida em lógica, banco de dados e web.  
