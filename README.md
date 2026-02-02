@@ -1,82 +1,158 @@
-
-# 👋 Olá, eu sou Lucas Inácio!
-
-Tenho 20 anos, sou apaixonado por tecnologia e desenvolvimento de software.  
-Atualmente curso <b>Desenvolvimento de Software Multiplataforma</b> na FATEC - São José dos Campos, sempre buscando criar soluções inovadoras e funcionais.
-
-Minha trajetória começou com o técnico em Desenvolvimento de Sistemas, que me deu uma base sólida em lógica, banco de dados e web.  
-Desde então, venho explorando diversas linguagens e frameworks, buscando estar sempre atualizado com as melhores práticas do mercado.
-
----
-
-## 🚀 Sobre mim
-
-- 🧑‍💻 Profissional versátil e criativo, desenvolvendo aplicações eficientes para diferentes plataformas.
-- 🌱 Sempre aprendendo e compartilhando conhecimento com a comunidade de TI.
-- 💡 Apaixonado por projetos pessoais e por colaborar em iniciativas open source.
-- 🤝 Aberto a novos desafios, oportunidades e conexões!  
-- 💬 Vamos conversar sobre tecnologia? 😊
-
----
-
-## 🛠️ Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Lucas%20In%C3%A1cio&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&fontSize=56&desc=Software%20Engineer%20%7C%20Back-End%20Developer&descAlign=50&descAlignY=62&animation=twinkling&color=0:0B1220,50:0052CC,100:00BFFF"
+  />
 </p>
-
----
-
-## 🌐 Redes Sociais
-
-<p>
-  <a href="https://instagram.com/lucasinaciooc">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/Lucas%20In%C3%A1cio">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lucasinacio8000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukitta013&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Lukitta013&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitta013&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
-
----
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Lukitta013&icon=0&color=0" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=18&duration=2600&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=Transformando+problemas+complexos+em+software+escal%C3%A1vel+%E2%80%94+da+engenharia+ao+design."
+    alt="Texto animado"
+  />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/luucasinacioo/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lukitta013" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-004080?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lukitta013&label=Profile%20Views&color=00BFFF" />
+  <img src="https://img.shields.io/github/followers/Lukitta013?label=Followers&color=0052CC" />
+  <img src="https://img.shields.io/github/stars/Lukitta013?label=Stars&color=0052CC" />
+</p>
+
+<hr/>
+
+<h2>🧠 Sobre mim</h2>
+
+<ul>
+  <li><b>Atuação:</b> Engenheiro de Software / Full Stack com foco em <b>Java 17+ (Spring Boot)</b>, <b>TypeScript</b>.</li>
+  <li><b>Perfil:</b> Conecto <b>arquitetura e backend</b> com <b>interfaces de alto padrão</b> (Design Systems).</li>
+  <li><b>Especialidades:</b> APIs escaláveis, microserviços, segurança, performance, observabilidade e integrações.</li>
+  <li><b>Cloud & DevOps:</b> AWS/Azure, para deploy previsível e resiliente.</li>
+  <li><b>Automação & IA:</b> n8n + integrações via API e uso de IA generativa para produtividade.</li>
+  <li><b>Local:</b> São José dos Campos, São Paulo — <b>remoto</b>, <b>híbrido</b> ou <b>presencial</b>.</li>
+</ul>
+
+<pre>
+const lucasinacio = {
+  cargo: "Engenheiro de Software | Back-End Developer",
+  local: "São José dos Campos, São Paulo, Brasil",
+  foco: [
+    "Java 17+ e Spring Boot (APIs, microserviços, performance)",
+    "TypeScript, React e Design Systems",
+    "Cloud (AWS/Azure), Git e GitHub",
+    "Automação com n8n e integrações via APIs"
+  ],
+  objetivo:
+    "Construir soluções robustas, escaláveis e elegantes, com alta qualidade técnica e ótima experiência do usuário."
+};
+</pre>
+
+<hr/>
+
+<h2>📊 Visão geral do GitHub</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Lukitta013&show_icons=true&hide_border=true&theme=github_dark&icon_color=00BFFF"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitta013&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais usadas"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com?user=Lukitta013&theme=github-dark&hide_border=true&ring=00BFFF&currStreakLabel=00BFFF"
+    alt="GitHub Streak"
+  />
+</p>
+
+<hr/>
+
+<h2>🧩 Stack tecnológica</h2>
+
+<div align="center">
+  <h4>💻 Linguagens</h4>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python" />
+
+  <h4>🧱 Backend & Arquitetura</h4>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
+
+  <h4>🎨 Frontend & Design</h4>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+
+  <h4>🗄️ Banco de dados</h4>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+  <h4>☁️ Cloud, DevOps & Ferramentas</h4>
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+</div>
+
+<hr/>
+
+<h2>📈 Atividade & gráficos</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lukitta013&bg_color=0B1220&color=C9D1D9&line=00BFFF&point=00BFFF&area=true&hide_border=true"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<hr/>
+
+<h2>🌍 Aberto a oportunidades</h2>
+
+<pre>
+Cargos:
+- Engenheiro de Software
+- Backend (Java / Spring Boot, Typescript)
+
+Modelo:
+- Remoto
+- Híbrido
+- Presencial
+
+Local:
+São José dos Campos, SP — Brasil
+</pre>
+
+<hr/>
+
+<h2>💬✨ Vamos nos conectar</h2>
+
+<p align="center">
+  Cada link abre uma camada diferente da minha jornada:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luucasinacioo/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lukitta013" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-004080?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:lucasinacio8000@gmail.com">lucasinacio8000@gmail.com</a><br>
+  🌍 <b>Disponível para trabalho remoto global</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Construa%20com%20Propósito&fontColor=FFFFFF&fontSize=34&color=0:0B1220,50:0052CC,100:00BFFF"
+  />
+</p>
