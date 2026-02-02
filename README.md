@@ -60,25 +60,6 @@ const lucasinacio = {
 
 <div align="center">
   <a href="https://github.com/Lukitta013">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukitta013&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitta013&layout=compact&theme=github_dark"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/Lukitta013">
-  <img height="180em" src="https://streak-stats.demolab.com?user=Lukitta013&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-</div>
-
-<hr/>
-
-<hr/>
-
-<h2>📊 Visão geral do GitHub</h2>
-
-<div align="center">
-  <a href="https://github.com/Lukitta013">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukitta013&show_icons=true&theme=github_dark&icon_color=00BFFF&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   
