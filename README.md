@@ -56,16 +56,40 @@ const lucasinacio = {
 
 <hr/>
 
+<h2>🛠 Linguagens e Tecnologias</h2>
+
+<div align="center">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</div>
+
+<hr/>
+
 <h2>📊 Visão geral do GitHub</h2>
 
 <div align="center">
-  <a href="https://github.com/Lukitta013">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukitta013&show_icons=true&theme=github_dark&icon_color=00BFFF&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  
-  <a href="https://github.com/Lukitta013">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukitta013&layout=compact&theme=github_dark&icon_color=00BFFF&hide_border=true"/>
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lukitta013&theme=algolia" />
+</div>
+
+<br/>
+
+<div align="center"> 
+
+| Top Linguagens por commit | Top Linguagens por repositório |
+|:---:|:---:|
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lukitta013&theme=algolia" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lukitta013&theme=algolia" /> |
+
 </div>
 
 <div align="center">
